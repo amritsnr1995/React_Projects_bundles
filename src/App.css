@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.sakura_image {
+  width: 200px;
+  cursor: pointer;
+  
+} 
+header.subtitle {
+  font-size: .8rem;
+}
+.card__icons{
+  
+}
